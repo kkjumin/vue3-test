@@ -1,0 +1,6 @@
+.box {
+  display: block;
+  background: url(../images/test.jpeg);
+  width: 100px;
+  height: 100px;
+}
